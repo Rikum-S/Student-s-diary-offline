@@ -1,4 +1,5 @@
-#Student's diary offline
+#Student's diary offline EU
+
 Student's diary offline is an application for creating your own unique schedule for the week, including even and odd days starting from a specific day.
 
 Features:
@@ -18,3 +19,27 @@ Usage:
 • Set the start date of the semester.
 • Add several disciplines by specifying the full name of the teacher for the discipline (you can edit it).
 • Add the created item to the schedule and specify the time and place of the discipline providence.
+
+
+
+#Student's diary offline RU
+
+Student's diary offline – приложение для создания своего уникального расписания на неделю, включая четные и нечетные начиная с конкретного дня.
+
+Возможности:
+• Создания расписание: название предмета, имя препода, домашнее задание, время начала дисциплины и время конца, аудитория проведения, типа занятия и периодичность (каждую неделю, четная неделя, нечетная неделя или один раз).
+• Планирования задач: Создания напоминаний про домашние задания, проекты и остальные долгие задачи.
+• Настройка темы и создания виджета на главный экран телефона для удобного вывода расписание на видное место.
+
+Требования:
+• Система android.
+• 3-20 МБ свободного места.
+• Желание заполнять расписание.
+
+Установка:
+• Загрузить apk файл и установить на свой гаджет.
+
+Использование:
+• Настройте дату начала семестра.
+• Добавьте несколько дисциплин, указав ФИО препода к дисциплине (можно редактировать).
+• Добавьте созданный предмет в расписание указал время и место провидения дисциплины.
